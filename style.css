@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.outer{
+    height: 420px;
+    width: 60%;
+    background-color: whitesmoke;
+    margin-top: 50px;
+}
+
+.header{
+    height: 25px;
+    width: 98%;
+    background-color: rgb(22, 164, 230);
+    margin: 0px 1%;
+}
+
+.menu{
+    height: 100px;
+    width: 98%;
+    background-color: red;
+    margin: 0px 1%;
+}
+
+.center{
+    height: 150px;
+    width: 98%;
+    margin: 10px 1%;
+    background-color: green;
+}
+
+.footer{
+    height: 125px;
+    width: 98%;
+    margin: 10px 1%;
+    background-color: yellow;
+}
